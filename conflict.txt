@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 another file
+=======
+hi w

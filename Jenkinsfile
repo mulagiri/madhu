@@ -7,7 +7,7 @@ pipeline
     {
       steps
       {
-        sh 'touch bus.txt'
+        sh 'touch madhu.txt'
       }
     }
   }
